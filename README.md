@@ -5,7 +5,7 @@
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](monteiroads96@gmail.com)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](monteiroads96@gmail.com)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([monteiroads96@gmail.com](https://www.linkedin.com/in/thiago-monteiro-026738227/))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-monteiro-026738227/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiroads96&show_icons=true&theme=dracula)
 
@@ -22,4 +22,5 @@
     <img align="center" alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
 </div><br/>
+
 
